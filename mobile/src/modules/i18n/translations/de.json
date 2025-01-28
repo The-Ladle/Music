@@ -19,12 +19,15 @@
     "next": "Nächste",
     "shuffle": "Unsortieren",
     "repeat": "Wiederholen",
+    "repeatOne": "Einmal Wiederholen",
 
     "favorite": "Dieses Lied lieben",
     "unFavorite": "Aus deinen Favoriten entfernen",
     "favoriteTracks": "Lieblingslieder",
 
-    "disc": "CD {{count}}"
+    "disc": "CD {{count}}",
+    "vinyl": "Vinyl",
+    "plain": "Normal"
   },
 
   "header": {
@@ -44,6 +47,8 @@
     "backup": "Sicherungskopie",
     "font": "Akzentschrift",
     "theme": "Thema",
+    "nowPlayingDesign": "Jetzt läuft Bildschirmdesign",
+    "homeTabsOrder": "Reihenfolge der Home-Tabs",
     "listAllow": "Zulassungsliste",
     "listBlock": "Sperrliste",
     "ignoreDuration": "Ignoriere kurzes Audio",
@@ -189,7 +194,9 @@
     "entryRemove": "`{{- name}}` entfernen.",
     "entryRemoved": "Hat `{{- name}}` entfernt.",
     "entrySeeMore": "Mehr über `{{- name}}` sehen.",
-    "notFound": "`{{- name}}` existiert nicht."
+    "notFound": "`{{- name}}` existiert nicht.",
+    "showEntry": "`{{- name}}` einblenden",
+    "hideEntry": "`{{- name}}` ausblenden"
   },
 
   "plural": {
